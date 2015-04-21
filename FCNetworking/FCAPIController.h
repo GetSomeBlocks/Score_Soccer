@@ -5,7 +5,6 @@
 
 @class FCChatDataStoreManager;
 @class FCBaseChatRequestManager;
-@class FCAuthFacebookManager;
 @class FCRequestFacebookManager;
 
 @interface FCAPIController : NSObject
