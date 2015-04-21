@@ -1,16 +1,12 @@
 #import "FCAPIController.h"
 #import "Singleton.h"
-#import "FCChatDataStoreManager.h"
 #import "FCBaseChatRequestManager.h"
 
 #import "FCAuthFacebookManager.h"
-#import "FCFacebookManager/FCRequestFacebookManager.h"
 
 @interface FCAPIController()
 @property (nonatomic, strong) FCChatDataStoreManager *chatDataStoreManager;
 @property (nonatomic, strong) FCBaseChatRequestManager *chatRequestManager;
-@property (nonatomic, strong) FCAuthFacebookManager *authFacebookManager;
-@property (nonatomic, strong) FCRequestFacebookManager *requestFacebookManager;
 @end
 
 
