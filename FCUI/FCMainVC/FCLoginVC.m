@@ -4,7 +4,6 @@
 #import "FCRequestFacebookManager.h"
 #import "FCUser.h"
 #import "FCFriendsTVC.h"
-#import "FCChatDataStoreManager.h"
 #import "Sequencer.h"
 
 @interface FCLoginVC ()
