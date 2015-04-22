@@ -4,18 +4,13 @@
         <notEnoughArgsSay>Debes tener un mensaje a decir.</notEnoughArgsSay>
         <notEnoughArgsBroadcast>Debes tener un mensaje a difundir.</notEnoughArgsBroadcast>
         <noMessages>No tienes mensajes privados por responder</noMessages>
-        <restartDuringMatch>No puedes reiniciar durante una partida. Usa -f para forzar.</restartDuringMatch>
-        <cycleDuringMatch>No puedes rotar durante una partida. Utiliza -f para forzar.</cycleDuringMatch>
         <matchRunning>La partida ya ha comenzado.</matchRunning>
         <matchNoResume>La partida ha terminado y no se puede reanudar.</matchNoResume>
         <matchNoStart>La partida no se puede iniciar en este momento.</matchNoStart>
         <matchNoEnd>La partida no puede ser terminada en este momento.</matchNoEnd>
         <notEnoughPlayers>No hay suficientes jugadores para empezar la partida.</notEnoughPlayers>
-        <noSetNext>No puedes establecer el siguiente mapa cuando hay un reinicio programado. Usa -f para forzar.</noSetNext>
-        <disabledCommand>Este comando está inhabilitado. Los mapas se volverán a cargar automáticamente si se detectan cambios.</disabledCommand>
         <rotPointInvalid>El punto de rotación especificado no es válido.</rotPointInvalid>
         <invalidTime>La cuenta atrás especificada es inválida.</invalidTime>
-        <teamChatDefault>El chat de equipo ya es su chat por defecto.</teamChatDefault>
         <teamChannel>El chat de tu equipo no ha podido ser determinado. Por favor inténtalo de nuevo dentro de unos instantes.</teamChannel>
         <noClass>No se ha encontrado ninguna clase con esos criterios.</noClass>
         <classRestricted>La clase {0} está restringida</classRestricted>
