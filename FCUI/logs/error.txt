@@ -1,5 +1,4 @@
----- Minecraft Crash Report ----
-// You should try our sister game, Minceraft!
+---- Crash Report ----
 
 Time: 12/02/15 08:44 PM
 Description: Exception in server tick loop
