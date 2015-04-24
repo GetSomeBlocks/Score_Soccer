@@ -67,8 +67,4 @@ function applyPatches {
 
     cd ../..
 }
-
-applyPatches Bukkit
-applyPatches CraftBukkit
-
 cd "$ORIG_PWD"
