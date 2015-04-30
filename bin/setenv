@@ -1,0 +1,25 @@
+#!/bin/bash
+export PATH=resources/lib/unittest2:$PATH
+export PYTHONPATH=\
+$PYTHONPATH:\
+resources/src:\
+resources/test:\
+resources/itest:\
+resources/lib/mockito:\
+resources/lib/decorator:\
+resources/lib/odict:\
+resources/lib/bidict:\
+resources/lib/BeautifulSoup:\
+resources/lib/elementtree:\
+resources/lib/tvdb_api:\
+resources/lib/themoviedb:\
+resources/lib/IMDbPY:\
+resources/lib/simplejson:\
+resources/lib/feedparser:\
+resources/lib/mysql-connector-python:\
+resources/lib/htmltestrunner:\
+resources/lib/python-twitter:\
+resources/lib/twisted:\
+resources/lib/zope.interface:\
+resources/lib/unittest2:\
+resources/lib/tvrage
