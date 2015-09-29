@@ -1,4 +1,4 @@
-# Score Soccer
+#Server Status
 
-Aplicacion para mirar los resultados de los partidos de cualquiera liga.
+Estado de los servidores que se encuentran en la network de dreamcraft
 
